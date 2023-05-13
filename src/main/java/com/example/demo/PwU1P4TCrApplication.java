@@ -15,6 +15,9 @@ public class PwU1P4TCrApplication implements CommandLineRunner{
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
 		System.out.println("Mi primer proyecto en casa");
+		System.out.println("Cambio1");
+		//Cambio2
+		System.out.println("Cambio3");
 	}
 
 	
